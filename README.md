@@ -1,4 +1,4 @@
 # Demo
 The First Repository-
 <br>
-Author - Gaurav Shende
+<marquee>Author - Gaurav Shende</marquee>
